@@ -1,0 +1,58 @@
+[
+  
+    {
+
+      "title"    : "Welcome to Jekyll!",
+      "url"      : "/blog/welcome-to-jekyll.html",
+      "category" : "",
+      "tags"     : "jekyll, ruby, webdev",
+      "date"     : "May 12, 2021",
+      "overview" :  "An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0 An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0" 
+
+    } ,
+  
+    {
+
+      "title"    : "Welcome to Jekyll 222222!",
+      "url"      : "/blog/first-post.html",
+      "category" : "",
+      "tags"     : "jekyll, ruby, python, rsa",
+      "date"     : "May 11, 2021",
+      "overview" :  "An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0 An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0" 
+
+    } ,
+  
+    {
+
+      "title"    : "Really Secure Algorithm",
+      "url"      : "/blog/writeup/reallysecurersa.html",
+      "category" : "writeup",
+      "tags"     : "rsa",
+      "date"     : "May 09, 2021",
+      "overview" :  "This is a writeup" 
+
+    } ,
+  
+    {
+
+      "title"    : "The Obligatory RSA Challenge",
+      "url"      : "/blog/writeup/obligatoryrsachallenge.html",
+      "category" : "writeup",
+      "tags"     : "rsa",
+      "date"     : "May 09, 2021",
+      "overview" :  "This is a writeup" 
+
+    } ,
+  
+    {
+
+      "title"    : "Welcome to Jekyll 33333333!",
+      "url"      : "/blog/first-post-copy.html",
+      "category" : "",
+      "tags"     : "jekyll, ruby, python, rsa",
+      "date"     : "Apr 11, 2021",
+      "overview" :  "An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0 An implementation of LSB, Bit plane slicing and triple-A techniques. Currently working on this for WoC 3.0" 
+
+    } 
+  
+]
